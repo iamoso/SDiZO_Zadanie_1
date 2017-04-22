@@ -1,0 +1,27 @@
+﻿  Heap.cpp
+Heap.cpp(106): warning C4309: '=': truncation of constant value
+Heap.cpp(107): warning C4309: '=': truncation of constant value
+Heap.cpp(108): warning C4309: '=': truncation of constant value
+Heap.cpp(140): warning C4309: '=': truncation of constant value
+Heap.cpp(141): warning C4309: '=': truncation of constant value
+Heap.cpp(142): warning C4309: '=': truncation of constant value
+  List.cpp
+  ListElement.cpp
+  Main.cpp
+  Menu.cpp
+Menu.cpp(369): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Menu.cpp(382): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Menu.cpp(395): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Menu.cpp(453): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Menu.cpp(502): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Menu.cpp(515): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Menu.cpp(528): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Menu.cpp(586): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Menu.cpp(633): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Menu.cpp(663): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Table.cpp
+  Generating code
+  All 289 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SDiZOzadanie1.vcxproj -> D:\.Coding\C++\SDiZOzadanie1\x64\Release\SDiZOzadanie1.exe
+  SDiZOzadanie1.vcxproj -> D:\.Coding\C++\SDiZOzadanie1\x64\Release\SDiZOzadanie1.pdb (Full PDB)

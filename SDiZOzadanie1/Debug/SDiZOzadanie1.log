@@ -1,0 +1,9 @@
+﻿  Heap.cpp
+d:\.coding\c++\sdizozadanie1\sdizozadanie1\heap.cpp(106): warning C4309: '=': truncation of constant value
+d:\.coding\c++\sdizozadanie1\sdizozadanie1\heap.cpp(107): warning C4309: '=': truncation of constant value
+d:\.coding\c++\sdizozadanie1\sdizozadanie1\heap.cpp(108): warning C4309: '=': truncation of constant value
+d:\.coding\c++\sdizozadanie1\sdizozadanie1\heap.cpp(140): warning C4309: '=': truncation of constant value
+d:\.coding\c++\sdizozadanie1\sdizozadanie1\heap.cpp(141): warning C4309: '=': truncation of constant value
+d:\.coding\c++\sdizozadanie1\sdizozadanie1\heap.cpp(142): warning C4309: '=': truncation of constant value
+  SDiZOzadanie1.vcxproj -> D:\.Coding\C++\SDiZOzadanie1\Debug\SDiZOzadanie1.exe
+  SDiZOzadanie1.vcxproj -> D:\.Coding\C++\SDiZOzadanie1\Debug\SDiZOzadanie1.pdb (Partial PDB)
